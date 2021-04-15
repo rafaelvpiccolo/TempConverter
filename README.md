@@ -1,2 +1,2 @@
 # TempConverter
-Este projeto é o meu primeiro aplicativo funcional que criei estudando a linguagem Kotlin e a IDE Android Studio.
+Projeto que converte a temperatura de Celsius para Fahrenheit e vice-versa
